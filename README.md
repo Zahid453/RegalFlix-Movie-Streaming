@@ -77,7 +77,6 @@ The platform provides a fully dynamic movie and TV show browsing experience, use
 
 ## 👤 Author
 **Zahid Shaikh**  
-- GitHub: [https://github.com/zahidsh13](https://github.com/zahidsh13)  
-- LinkedIn: [https://www.linkedin.com/in/shaikhzahid0821](https://www.linkedin.com/in/shaikhzahid0821)
+- LinkedIn: [https://www.linkedin.com/in/skzahid90281/](https://www.linkedin.com/in/skzahid90281/)
 
 ---
