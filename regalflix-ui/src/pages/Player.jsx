@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { BsArrowLeft } from "react-icons/bs";
 import { useNavigate } from "react-router-dom";
-import video from "../assets/movie.mkv";
+import video from "../assets/movie.mp4";
 export default function Player() {
   const navigate = useNavigate();
 
